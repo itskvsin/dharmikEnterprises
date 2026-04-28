@@ -133,7 +133,7 @@ export default function Footer() {
 
       {/* WhatsApp Floating Button */}
       <a
-        href="https://wa.me/919876543210?text=Hello%20Dharmik%20Enterprise%2C%20I%20am%20interested%20in%20bulk%20embroidery%20manufacturing."
+        href="https://wa.me/919824402416?text=Hello%20Dharmik%20Enterprise%2C%20I%20am%20interested%20in%20bulk%20embroidery%20manufacturing."
         target="_blank"
         rel="noopener noreferrer"
         style={{
