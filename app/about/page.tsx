@@ -10,7 +10,7 @@ const values = [
 ]
 
 const milestones = [
-  { year: '2009', event: 'Founded in Surat with 2 embroidery machines' },
+  { year: '2009', event: 'Founded in Ahmedabad with 2 embroidery machines' },
   { year: '2013', event: 'Expanded to 20 machines, entered B2B wholesale market' },
   { year: '2017', event: 'Partnered with 100+ garment exporters across Gujarat' },
   { year: '2021', event: 'Upgraded to 12-head computerized systems, 10K pieces/week capacity' },
@@ -67,7 +67,7 @@ export default function AboutPage() {
                 &ldquo;We started Dharmik Enterprise with a belief that bulk embroidery didn&apos;t have to mean compromised quality.&rdquo;
               </p>
               <p style={{ fontFamily: 'DM Sans, sans-serif', fontSize: '0.9rem', color: 'rgba(42,30,16,0.65)', lineHeight: '1.8', marginBottom: '1rem' }}>
-                Founded in 2009 in Surat — India&apos;s textile capital — Dharmik Enterprise began as a small workshop with two machines and a big vision. Today, we run one of Gujarat&apos;s most reliable B2B embroidery operations.
+                Founded in 2009 in Ahmedabad — India&apos;s textile capital — Dharmik Enterprise began as a small workshop with two machines and a big vision. Today, we run one of Gujarat&apos;s most reliable B2B embroidery operations.
               </p>
               <p style={{ fontFamily: 'DM Sans, sans-serif', fontSize: '0.9rem', color: 'rgba(42,30,16,0.65)', lineHeight: '1.8' }}>
                 Our clients are garment manufacturers, uniform suppliers, cap makers, and retail brands who need consistent quality at volume. We&apos;ve built our entire operation around their requirements: fast turnaround, accurate digitizing, and transparent communication.

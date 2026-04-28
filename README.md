@@ -1,6 +1,6 @@
 # Dharmik Enterprise — B2B Embroidery Website
 
-A premium 4-page Next.js 15 website for **Dharmik Enterprise**, a B2B embroidery manufacturer based in Surat, Gujarat.
+A premium 4-page Next.js 15 website for **Dharmik Enterprise**, a B2B embroidery manufacturer based in Ahmedabad, Gujarat.
 
 ## Stack
 
@@ -41,30 +41,6 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Customise
 
-- **Phone / WhatsApp**: Find `+91 98765 43210` across files and replace with real number
-- **Email**: Replace `info@dharmikenterprise.com`  
-- **Address**: Replace `Ring Road, Surat – 395002`
-- **Form submission**: Connect to [Web3Forms](https://web3forms.com) or a Next.js API route in `/app/api/contact/route.ts`
-- **Images**: Add embroidery photos to `/public/images/` and use `<Image>` from `next/image`
-
-## Form Integration (Web3Forms)
-
-Replace the `handleSubmit` function in `app/contact/page.tsx`:
-
-```ts
-async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
-  e.preventDefault()
-  setLoading(true)
-  const formData = new FormData(e.currentTarget)
-  formData.append('access_key', 'YOUR_WEB3FORMS_KEY')
-  
-  const res = await fetch('https://api.web3forms.com/submit', {
-    method: 'POST',
-    body: formData,
-  })
-  
-  const data = await res.json()
-  setLoading(false)
-  if (data.success) setSubmitted(true)
-}
-```
+- **Phone / WhatsApp**: `+91 98244 02416`
+- **Email**: `tirthsiroya007@gmail.com`  
+- **Address**: `Ghatlodia, Ahmedabad, Gujrat`

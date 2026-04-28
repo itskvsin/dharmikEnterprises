@@ -105,7 +105,7 @@ export default function Footer() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               {[
                 { label: 'Phone', value: '+91 98244 02416' },
-                { label: 'Email', value: 'info@dharmikenterprise.com' },
+                { label: 'Email', value: 'tirthsiroya007@gmail.com' },
                 { label: 'Location', value: 'Ghatlodia, Ahmedabad, Gujarat, India' },
                 { label: 'MOQ', value: '50 pieces per design' },
               ].map((item) => (
@@ -126,7 +126,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Dharmik Enterprise. All rights reserved.
           </p>
           <p style={{ fontFamily: 'DM Sans, sans-serif', fontSize: '0.75rem', color: 'rgba(201,138,18,0.35)', letterSpacing: '0.1em' }}>
-            BULK EMBROIDERY · SURAT · INDIA
+            BULK EMBROIDERY · Ahmedabad · INDIA
           </p>
         </div>
       </div>

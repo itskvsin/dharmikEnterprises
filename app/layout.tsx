@@ -4,9 +4,9 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Dharmik Enterprise – B2B Embroidery Manufacturer | Surat, India',
-  description: 'Premium bulk embroidery manufacturing for brands, wholesalers & garment businesses. Logo stitching, uniform embroidery, MOQ 50 pcs. Based in Surat, Gujarat.',
-  keywords: 'bulk embroidery manufacturer, B2B embroidery India, logo stitching, uniform embroidery, Surat embroidery, wholesale embroidery',
+  title: 'Dharmik Enterprise – B2B Embroidery Manufacturer | Ahmedabad, India',
+  description: 'Premium bulk embroidery manufacturing for brands, wholesalers & garment businesses. Logo stitching, uniform embroidery, MOQ 50 pcs. Based in Ahmedabad, Gujarat.',
+  keywords: 'bulk embroidery manufacturer, B2B embroidery India, logo stitching, uniform embroidery, Ahmedabad embroidery, wholesale embroidery',
   openGraph: {
     title: 'Dharmik Enterprise – B2B Embroidery Manufacturer',
     description: 'Premium bulk embroidery manufacturing for brands & garment businesses.',

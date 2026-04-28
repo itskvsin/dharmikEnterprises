@@ -78,12 +78,12 @@ export default function ContactPage() {
                 },
                 {
                   label: 'Email',
-                  value: 'info@dharmikenterprise.com',
+                  value: 'tirthsiroya007@gmail.com',
                   sub: 'Response within 24 hours',
                 },
                 {
                   label: 'Factory Address',
-                  value: 'Ring Road, Surat – 395002',
+                  value: 'Ghatlodia, Ahmedabad, Gujrat, India',
                   sub: 'Gujarat, India',
                 },
                 {
