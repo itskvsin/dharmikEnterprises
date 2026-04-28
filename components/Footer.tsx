@@ -1,3 +1,5 @@
+"use client"
+
 import Link from 'next/link'
 
 export default function Footer() {
@@ -102,7 +104,7 @@ export default function Footer() {
             </p>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               {[
-                { label: 'Phone', value: '+91 98765 43210' },
+                { label: 'Phone', value: '+91 98244 02416' },
                 { label: 'Email', value: 'info@dharmikenterprise.com' },
                 { label: 'Location', value: 'Surat, Gujarat, India' },
                 { label: 'MOQ', value: '50 pieces per design' },

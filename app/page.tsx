@@ -1,5 +1,6 @@
-import Gallery from '@/components/Gallery'
-import Link from 'next/link'
+"use client"
+
+import Link from "next/link"
 
 const stats = [
   { value: '15+', label: 'Years Experience' },

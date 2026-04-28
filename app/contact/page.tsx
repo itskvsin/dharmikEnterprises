@@ -73,7 +73,7 @@ export default function ContactPage() {
               {[
                 {
                   label: 'Phone / WhatsApp',
-                  value: '+91 98765 43210',
+                  value: '+91 98244 02416',
                   sub: 'Mon–Sat, 9am–7pm IST',
                 },
                 {
