@@ -106,7 +106,7 @@ export default function Footer() {
               {[
                 { label: 'Phone', value: '+91 98244 02416' },
                 { label: 'Email', value: 'info@dharmikenterprise.com' },
-                { label: 'Location', value: 'Surat, Gujarat, India' },
+                { label: 'Location', value: 'Ghatlodia, Gujarat, India' },
                 { label: 'MOQ', value: '50 pieces per design' },
               ].map((item) => (
                 <div key={item.label}>
