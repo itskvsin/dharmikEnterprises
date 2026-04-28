@@ -1,3 +1,4 @@
+import Gallery from '@/components/Gallery'
 import Link from 'next/link'
 
 const stats = [
@@ -31,7 +32,7 @@ const advantages = [
   {
     icon: '◇',
     title: 'All Fabric Types',
-    desc: 'Expertise in cotton, polyester, denim, fleece, caps & more. No substrate we haven't mastered.',
+    desc: `Expertise in cotton, polyester, denim, fleece, caps & more. No substrate we haven't mastered.`,
   },
   {
     icon: '○',
